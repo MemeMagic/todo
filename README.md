@@ -2,7 +2,7 @@
 
  - [ ] Bucca De Beppo
  - [ ] The Vault
- - [ ] Hauf Brau House
+ - [ ] Hofbrauhaus
  - [ ] Cyclones Game (Dollar beer night preferable)
  - [ ] Tribunal TGIF
  - [ ] Hiking
