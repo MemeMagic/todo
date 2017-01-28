@@ -10,3 +10,4 @@
  - [ ] Brazilian Steakhouse (for a good reason)
  - [ ] Kings Island
  - [ ] 16 Bit
+ - [ ] Dueling Piano Bar
