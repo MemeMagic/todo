@@ -2,7 +2,7 @@
 
  - [ ] Buca Di Beppo
  - [ ] The Vault
- - [ ] Hofbrauhaus
+ - [x] Hofbrauhaus
  - [ ] Cyclones Game (Dollar beer night preferable)
  - [ ] Tribunal TGIF
  - [ ] Hiking
@@ -11,3 +11,4 @@
  - [ ] Kings Island
  - [ ] 16 Bit
  - [ ] Dueling Piano Bar
+ - [ ] Nada
