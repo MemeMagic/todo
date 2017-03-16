@@ -12,3 +12,4 @@
  - [ ] 16 Bit
  - [ ] Dueling Piano Bar
  - [ ] Nada
+ - [ ] Short Vine Bar Hop - Hit every bar on shortvine from Kroger to Taste of Belgium
