@@ -6,7 +6,7 @@
  - [ ] Cyclones Game (Dollar beer night preferable)
  - [ ] Tribunal TGIF
  - [ ] Hiking
- - [ ] The Social network x5
+ - [x] The Social network x1
  - [ ] Brazilian Steakhouse (for a good reason)
  - [ ] Kings Island
  - [ ] 16 Bit
