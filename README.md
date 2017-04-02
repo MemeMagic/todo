@@ -1,6 +1,6 @@
 # MemeMagic todo list
 
- - [ ] Buca Di Beppo
+ - [x] Buca Di Beppo
  - [ ] The Vault
  - [x] Hofbrauhaus
  - [ ] Cyclones Game (Dollar beer night preferable)
