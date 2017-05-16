@@ -14,6 +14,6 @@
  - [ ] Nada
  - [ ] Short Vine Bar Hop - Hit every bar on shortvine from Kroger to Taste of Belgium
  - [ ] Engineering Luau
- - [ ] Buzzed Bull Creamery
+ - [x] Buzzed Bull Creamery
  - [ ] Ohio State Fair
  - [ ] Canoeing
