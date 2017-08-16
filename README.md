@@ -13,7 +13,7 @@
  - [ ] Dueling Piano Bar
  - [ ] Nada
  - [ ] Short Vine Bar Hop - Hit every bar on shortvine from Kroger to Taste of Belgium
- - [ ] Engineering Luau
+ - [x] Engineering Luau
  - [x] Buzzed Bull Creamery
- - [ ] Ohio State Fair
+ - [x] Ohio State Fair
  - [ ] Canoeing
