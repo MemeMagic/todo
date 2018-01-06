@@ -1,7 +1,7 @@
 # MemeMagic todo list
 
  - [x] Buca Di Beppo
- - [ ] The Vault
+ - [ ] <s>The Vault </s>
  - [x] Hofbrauhaus
  - [ ] Cyclones Game (Dollar beer night preferable)
  - [x] Tribunal TGIF
@@ -10,7 +10,7 @@
  - [ ] Brazilian Steakhouse (for a good reason)
  - [ ] Kings Island
  - [ ] 16 Bit
- - [ ] Dueling Piano Bar
+ - [ ] <s>Dueling Piano Bar </s>
  - [ ] Nada
  - [ ] Short Vine Bar Hop - Hit every bar on shortvine from Kroger to Taste of Belgium
  - [x] Engineering Luau
