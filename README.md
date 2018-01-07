@@ -17,3 +17,4 @@
  - [x] Buzzed Bull Creamery
  - [x] Ohio State Fair
  - [ ] Canoeing
+ - [ ] Terry's Turf Club
