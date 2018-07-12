@@ -18,3 +18,4 @@
  - [x] Ohio State Fair
  - [ ] Canoeing
  - [ ] Terry's Turf Club
+ - [ ] Downtown street car barhop
