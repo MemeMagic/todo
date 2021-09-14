@@ -17,6 +17,6 @@
  - [x] Buzzed Bull Creamery
  - [x] Ohio State Fair
  - [ ] Canoeing
- - [ ] <s>Terry's Turf Club</s>
+ - [ ] The Turf Club
  - [ ] Downtown street car barhop
- - [ ] Napa/Sonoma Meetup
+ - [ ] Napa Meetup
