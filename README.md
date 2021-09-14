@@ -7,9 +7,9 @@
  - [x] Tribunal TGIF
  - [ ] Hiking
  - [x] The Social network x1
- - [ ] Brazilian Steakhouse (for a good reason)
+ - [ ] <s>Brazilian Steakhouse (for a good reason)</s>
  - [ ] Kings Island
- - [ ] 16 Bit
+ - [ ] <s>16 Bit</s>
  - [ ] <s>Dueling Piano Bar </s>
  - [ ] Nada
  - [ ] Short Vine Bar Hop - Hit every bar on shortvine from Kroger to Taste of Belgium
@@ -17,5 +17,6 @@
  - [x] Buzzed Bull Creamery
  - [x] Ohio State Fair
  - [ ] Canoeing
- - [ ] Terry's Turf Club
+ - [ ] The Turf Club
  - [ ] Downtown street car barhop
+ - [ ] Napa Meetup
